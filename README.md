@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyaraOL
 - 👀 I’m interested in AI, Data Analysis
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL and Power BI
 - 💞️ I’m looking to collaborate on Data analysis projects
 - 📫 How to reach me @ ayaraluckson@gmail.com
 - 😄 Pronouns: He, Him
