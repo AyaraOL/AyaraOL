@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis, AI and Collaboration
 - 🌱 I’m currently learning SQL,Excel and Power BI
 - 💞️ I’m looking to collaborate on Data analysis projects
-- 📫 How to reach me @ ayaraluckson@gmail.com
+- 📫 How to reach me @ ayaraluckson@gmail.com | https://www.linkedin.com/in/ayara-lucky
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: Seeking out new free and good AI tools
   
@@ -20,7 +20,7 @@ I am committed to honing my skills in data analysis and visualization. My journe
   
 - **Data Visualizations:** I love bringing data to life! Explore my visualizations that transform complex datasets into clear, compelling, and actionable insights.
 
-- **Learning Adventures:** I believe in continuous learning. You'll find repositories with tutorials and exercises that reflect my progress in mastering tools like P SQL,Power BI, Excel  and more.
+- **Learning Adventures:** I believe in continuous learning. You'll find repositories with tutorials and exercises that reflect my progress in mastering tools like SQL,Power BI, Excel  and more.
 
 ## Skills
 
