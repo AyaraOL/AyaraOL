@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucky Ayara
-- 👀 I’m interested in Data Analysis, AI and Collaboration
+- 👀 I’m an E & I Specialist who is very interested in Data Analysis, AI and Collaboration
 - 🌱 I’m currently learning SQL,Excel and Power BI
 - 💞️ I’m looking to collaborate on Data analysis projects
 - 📫 How to reach me @ ayaraluckson@gmail.com | https://www.linkedin.com/in/ayara-lucky
