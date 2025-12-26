@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Lucky Ayara
-- 👀 I’m an E & I Specialist who is very interested in Data Analysis, AI and Collaboration
-- 🌱 I’m currently learning SQL,Excel and Power BI
-- 💞️ I’m looking to collaborate on Data analysis projects
-- 📫 How to reach me @ ayaraluckson@gmail.com | https://www.linkedin.com/in/ayara-lucky
+- 👀 I'm a junior Data Analyst.
+- 🌱 Adept in use of Excel,Power BI, SQL,Tableau and Looker Studio for date analysis and visualization.
+- 🤝 I’m looking to collaborate on Data analytics projects
+- 🧰 Check out my portfolio : https://sites.google.com/view/lucky-ayara/home?authuser=0
+- 📫 You can reach me @ ayaraluckson@gmail.com | https://www.linkedin.com/in/ayara-lucky
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: Seeking out new free and good AI tools
+- ⚡ Fun fact: Seeking out free and good AI tools
   
 # Welcome to My GitHub Profile! 👋
 
